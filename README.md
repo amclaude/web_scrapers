@@ -3,6 +3,8 @@ A list of scrapers I made on my free time.
 ### Current Scrapers
 
 - [Famous Birthdays](https://www.famousbirthdays.com/)
+- [BrokerCheck by Finra](https://brokercheck.finra.org/)
+- [BizBuySell](https://www.bizbuysell.com/businesses-for-sale/)
 
 
 ### Python Tools
